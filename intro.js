@@ -8,6 +8,10 @@ bear.addEventListener('click',function(){
     console.log("bear goes ahuuarruuur");
 	document.getElementById('hero').src="bear.webp";
 })
+moose.addEventListener('click',function(){
+    console.log("mooose goes sorryyyyy");
+	document.getElementById('hero').src="moose.webp";
+})
 wolf.addEventListener('click',function(){
     console.log("wolf goes aaooooooo");
 	document.getElementById('hero').src="wolf.webp";
